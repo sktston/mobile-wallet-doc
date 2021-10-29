@@ -17,10 +17,10 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Mobile Wallet User Guide'
+project = '모바일지갑 Partner Portal Guide'
 copyright = '2021, Jaehyeon Ju'
 author = 'Jaehyeon Ju'
-
+version = '0.1'
 
 # -- General configuration ---------------------------------------------------
 
